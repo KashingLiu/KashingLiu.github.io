@@ -2,7 +2,7 @@
 title: JC Blog
 SEOTitle: 刘家成的博客 | JC Blog
 header-img: img/post-bg-desk.jpg
-email: hitwh2018@gmail.com
+email: hitwh2017@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://kashingliu.github.io"          # your host, for absolute URL
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: f889720e9c50c0e30105                            #生成的clientID
+  clientSecret: 358413c56c03e44f5b2b4cf0c75f1379b6508ef1    #生成的clientSecret
+  repo: kashingliu.github.io    #仓库名称
+  owner: KashingLiu    #github用户名
+  admin: KashingLiu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 7d6bf601b0beb2289dae259e6bc136e7
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-127794074-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
